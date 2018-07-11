@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#20000000</color>
+    <color name="colorAccent">#67a417</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="snow">#fafafa</color>
+    <color name="davy_grey">#FF505659</color>
+    <color name="black">#000000</color>
+    <color name="black_30">#30000000</color>
+    <color name="black_20">#20000000</color>
+    <color name="black_12">#12000000</color>
+    <color name="black_10">#10000000</color>
+    <color name="black_60">#60000000</color>
+    <color name="black_80">#80000000</color>
+    <color name="ucla_blue">#475993</color>
+    <color name="blue_france">#4285f4</color>
+    <color name="slate_gray">#ff6c8592</color>
+    <color name="green">#8bc34a</color>
+    <color name="platinum">#e5e5e5</color>
+    <color name="timberwolf">#d8d8d8</color>
+    <color name="light_green">#67a417</color>
+    <color name="green_80">#80323232</color>
+    <color name="rosso_corso">#d50000</color>
+    <color name="olive_drab">#ff67a417</color>
+    <color name="light_gray">#d1d3d4</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="grey">#BDBDBD</color>
+    <color name="dollar_bill">#8bc34a</color>
+    <color name="sunglow">#ffca28</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">#f9593a</color>
+    <color name="hunter_green">#33691e</color>
+    <color name="sap_green">#558B2F</color>
+    <color name="vermilion">#dd4b39</color>
+    <color name="fuzzy_wuzzy">#d36d60</color>
+    <color name="material_error">#f4521f</color>
+
+    <color name="text_black">@color/black</color>
+    <color name="text_olive_drab">@color/olive_drab</color>
+    <color name="text_vermilion">@color/vermilion</color>
+    <color name="text_white">@color/white</color>
+    <color name="text_rosso_corso">@color/rosso_corso</color>
+    <color name="text_white_60">@color/white_60</color>
+    <color name="text_black_60">@color/white_60</color>
+    <color name="text_black_80">@color/black_80</color>
+    <color name="text_davy_grey">@color/davy_grey</color>
+    <color name="text_grey">@color/grey</color>
+    <color name="text_hunter_green">@color/hunter_green</color>
+    <color name="text_sap_green">@color/sap_green</color>
+    <color name="ef_colorTextPrimary">@color/black</color>
+    <color name="text_slate_gray">@color/slate_gray</color>
+    <color name="text_material_error">@color/material_error</color>
+
+
+    <color name="background_dollar_bill">@color/dollar_bill</color>
+    <color name="background_sunglow">@color/sunglow</color>
+    <color name="background_grey">@color/grey</color>
+    <color name="background_light_gray">@color/light_gray</color>
+    <color name="background_timberwolf">@color/timberwolf</color>
+    <color name="background_white">@color/white</color>
+    <color name="background_snow">@color/snow</color>
+    <color name="background_black">@color/black</color>
+    <color name="background_platinum">@color/platinum</color>
+    <color name="background_davy_grey">@color/davy_grey</color>
+    <color name="background_black_30">@color/black_30</color>
+    <color name="background_black_20">@color/black_20</color>
+    <color name="background_black_12">@color/black_12</color>
+    <color name="background_black_80">@color/black_80</color>
+    <color name="background_green">@color/green</color>
+    <color name="background_olive">@color/colorAccent</color>
+    <color name="background_ucla_blue">@color/ucla_blue</color>
+    <color name="background_slate_gray">@color/slate_gray</color>
+    <color name="background_vermilion">@color/vermilion</color>
+    <color name="background_fuzzy_wuzzy">@color/fuzzy_wuzzy</color>
+    <color name="background_orange">@color/orange</color>
+    <color name="background_green_80">@color/green_80</color>
+    <color name="background_hunter_green">@color/hunter_green</color>
+    <color name="background_blue_france">@color/blue_france</color>
+
+</resources>
